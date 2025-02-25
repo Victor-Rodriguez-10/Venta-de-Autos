@@ -1,0 +1,35 @@
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.AssemblyInfoInputs.cache
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.AssemblyInfo.cs
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.MvcApplicationPartsAssemblyInfo.cache
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.RazorAssemblyInfo.cache
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.RazorAssemblyInfo.cs
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.sourcelink.json
+E:\PROGRAMAS 2025\Venta de autos\bin\Debug\net8.0\appsettings.Development.json
+E:\PROGRAMAS 2025\Venta de autos\bin\Debug\net8.0\appsettings.json
+E:\PROGRAMAS 2025\Venta de autos\bin\Debug\net8.0\Venta de autos.staticwebassets.runtime.json
+E:\PROGRAMAS 2025\Venta de autos\bin\Debug\net8.0\Venta de autos.staticwebassets.endpoints.json
+E:\PROGRAMAS 2025\Venta de autos\bin\Debug\net8.0\Venta de autos.exe
+E:\PROGRAMAS 2025\Venta de autos\bin\Debug\net8.0\Venta de autos.deps.json
+E:\PROGRAMAS 2025\Venta de autos\bin\Debug\net8.0\Venta de autos.runtimeconfig.json
+E:\PROGRAMAS 2025\Venta de autos\bin\Debug\net8.0\Venta de autos.dll
+E:\PROGRAMAS 2025\Venta de autos\bin\Debug\net8.0\Venta de autos.pdb
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\scopedcss\bundle\Venta de autos.styles.css
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\scopedcss\projectbundle\Venta de autos.bundle.scp.css
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\staticwebassets.build.json
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\staticwebassets.development.json
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\staticwebassets\msbuild.Venta de autos.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\staticwebassets\msbuild.Venta de autos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\staticwebassets\msbuild.build.Venta de autos.props
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Venta de autos.props
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Venta de autos.props
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\staticwebassets.pack.json
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.dll
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\refint\Venta de autos.dll
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.pdb
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\Venta de autos.genruntimeconfig.cache
+E:\PROGRAMAS 2025\Venta de autos\obj\Debug\net8.0\ref\Venta de autos.dll
