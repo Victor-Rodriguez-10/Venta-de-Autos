@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using Venta_de_autos.Contexto;
+using Microsoft.AspNetCore.Authentication.Cookies;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Add connection string
+builder.Services.AddDbContext<MyContext>(options => {
+
+    options.UseSqlite(builder.Configuration.GetConnectionString("CadenaConexion"));
+});
 
 var app = builder.Build();
 

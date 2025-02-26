@@ -7,7 +7,7 @@ namespace Venta_de_autos.Models
         [Key]
         public int Id { get; set; }
         public string? Email { get; set; }
-        public string? Password { get; set; }
+        public string? NombreCompleto { get; set; }
         public RolEnum Rol { get; set; }
 
         public virtual List<Venta>? Ventas { get; set; }
